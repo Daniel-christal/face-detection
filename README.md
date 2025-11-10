@@ -1,5 +1,7 @@
 # Face Detection
 Face detection using Haar Cascades (frontal face and profile face) and Deep Neural Network (DNN) module in OpenCV.
+# Developed By: Daniel C
+# Reg no: 212223240023
 
 ## Haar Cascade Classifiers
 Haar Cascade files can be downloaded from the [OpenCV repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
