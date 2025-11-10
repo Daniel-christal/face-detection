@@ -19,11 +19,10 @@ If there are exactly two command line arguments and an image is provided as the 
 ## Examples
 Running **python face-detect-haar.py dominic.jpg**:
 
-![Image of Dominic with Face Detection Using Haar Cascades](https://github.com/basista21/faceDetection/blob/main/dominic_out.jpg)
 
 Running **python face-detect-dnn.py dominic.jpg**:
+<img width="449" height="705" alt="image" src="https://github.com/user-attachments/assets/bed075f0-f54c-4315-813a-2f7c886a3bef" />
 
-![Image of Dominic with Face Detection Using DNN](https://user-images.githubusercontent.com/74373754/116709904-bc8e5380-aa03-11eb-83c9-32d9ea33fed5.png)
 
 *The DNN detector successfully detected the third face, but with only 30.02% confidence.*
 
